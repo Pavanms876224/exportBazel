@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/myapp.dir/test/test.cc.o CMakeFiles/myapp.dir/src/lib.cc.o  -o myapp  libmyTestLibrary.a 
